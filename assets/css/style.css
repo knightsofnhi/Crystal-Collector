@@ -1,0 +1,68 @@
+
+
+body {
+	background-image: url(../images/dragonscrown_environment_quartz_cave.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 980px;
+	margin: auto;
+	
+}
+header {
+	text-align: center;
+	font-display: white;
+}
+
+
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+	font-display: white;
+}
+h1{
+	text-align: center;
+	font-size: 30pt;
+	font-display: white;
+}
+ol{
+	list-style: decimal inside; 
+}
+ul {
+	list-style: disc inside;
+	text-indent: 20px;
+}
+
+}
+div.header, div.instructions{
+	width: 50%;
+}
+
+.numberToMatch, .winsAndLosses{
+	float: center;
+	width: 15%;
+	height: 60px;
+}
+.userTotal{
+	width: 15%;
+	height: 60px;
+}
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 60px;
+	margin: 10px;
+}
+
+#opal{
+	color: #093852;
+}
+#sapphire{
+	color: #0a6137;
+}
+#amethyst{
+	color: #690b16;
+}
+#diamond {
+	color: #eeac06;
+}
