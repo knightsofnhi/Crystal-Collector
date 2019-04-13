@@ -8,54 +8,65 @@ body {
 	margin: auto;
 	
 }
-header {
-	text-align: center;
-	font-display: white;
+
+.instructions {
+	-ms-grid-column-span: inherit;
+	background: rgba(128, 128, 128, 0.26);
+
 }
 
+body * {
+	color: white;
+
+}
 
 h1, h3, span{
 	font-weight: bold;
 	text-align: center;
-	font-display: white;
+	color: white;
+	
 }
 h1{
 	text-align: center;
 	font-size: 30pt;
-	font-display: white;
+	color: white;
 }
-ol{
+
+h2 {
+	text-align: center;	
+}
+
+ol * {
 	list-style: decimal inside; 
+	padding: -20px;
+	text-indent: 200px;
 }
 ul {
 	list-style: disc inside;
-	text-indent: 20px;
-}
+	padding: 20px;
 
-}
-div.header, div.instructions{
-	width: 50%;
 }
 
 .numberToMatch, .winsAndLosses{
 	float: center;
-	width: 15%;
-	height: 60px;
+	height: 30px;
 }
 .userTotal{
-	width: 15%;
+
 	height: 60px;
 }
 .gems{
 	clear: both;
+	text-align: center;
 }
 .gemImage{
-	height: 60px;
-	margin: 10px;
+	height: 100px;
+	margin-top: 50px;
+	padding: 10px;
+
 }
 
-#opal{
-	color: #093852;
+
 }
 #sapphire{
 	color: #0a6137;
