@@ -14,4 +14,4 @@ Here's how to play!
 
 Have fun!
 
-https://knightsofnhi.github.io/Crystals Collector/
+https://knightsofnhi.github.io/Crystals-Collector/
