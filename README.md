@@ -1,4 +1,4 @@
-# Unit-4-Game
+# Crystals Collector
 
 Let's collect some gems in this Crystal Collector game!
 
