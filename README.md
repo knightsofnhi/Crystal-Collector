@@ -13,3 +13,5 @@ Here's how to play!
 7. The value of each gem changes at the start of each game!
 
 Have fun!
+
+https://knightsofnhi.github.io/TriviaGame/
